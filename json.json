@@ -1,0 +1,710 @@
+{
+    "1": {
+        "name": "The Abbey, Joaquin Miller House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Joaquin_Miller_House_%28Oakland%2C_CA%29.JPG/240px-Joaquin_Miller_House_%28Oakland%2C_CA%29.JPG",
+        "location": "37°48′45″N 122°11′08″W﻿ / ﻿37.8125°N 122.1855°W"
+    },
+    "2": {
+        "name": "The Ahwahnee",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Yosemite_-_Ahwahnee_Hotel.jpg/240px-Yosemite_-_Ahwahnee_Hotel.jpg",
+        "location": "37°44′45″N 119°34′27″W﻿ / ﻿37.74575°N 119.5741°W"
+    },
+    "3": {
+        "name": "Alcatraz Island",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Alcatraz_Cell_2005.JPG/240px-Alcatraz_Cell_2005.JPG",
+        "location": "37°49′35″N 122°25′21″W﻿ / ﻿37.8264°N 122.4225°W"
+    },
+    "4": {
+        "name": "Alma (scow schooner)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Alma_%28scow_schooner%2C_San_Francisco%29_1.JPG/240px-Alma_%28scow_schooner%2C_San_Francisco%29_1.JPG",
+        "location": "37°48′28″N 122°25′15″W﻿ / ﻿37.8077°N 122.4208°W"
+    },
+    "5": {
+        "name": "Angelus Temple",
+        "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Postcard-los-angeles-angelus-temple.png/240px-Postcard-los-angeles-angelus-temple.png",
+        "location": "34°04′35″N 118°15′41″W﻿ / ﻿34.0763°N 118.2613°W"
+    },
+    "6": {
+        "name": "Juan de Anza House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Juan_de_Anza_House%2C_Third_%26_Franklin_Streets%2C_San_Juan_Bautista_%28San_Benito_County%2C_California%29.jpg/240px-Juan_de_Anza_House%2C_Third_%26_Franklin_Streets%2C_San_Juan_Bautista_%28San_Benito_County%2C_California%29.jpg",
+        "location": "36°50′37″N 121°32′07″W﻿ / ﻿36.8436°N 121.5353°W"
+    },
+    "7": {
+        "name": "Aquatic Park Historic District",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/San_Francisco_Maritime_Museum.jpg/240px-San_Francisco_Maritime_Museum.jpg",
+        "location": "37°48′23″N 122°25′25″W﻿ / ﻿37.8064°N 122.4236°W"
+    },
+    "8": {
+        "name": "Asilomar Conference Grounds",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Merrill_Hall_Asilomar_edit1.jpg/240px-Merrill_Hall_Asilomar_edit1.jpg",
+        "location": "36°37′11″N 121°55′53″W﻿ / ﻿36.6197°N 121.9314°W"
+    },
+    "9": {
+        "name": "Balboa Park",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BalboaPark_BotanicBuilding.jpg/240px-BalboaPark_BotanicBuilding.jpg",
+        "location": "32°43′53″N 117°08′43″W﻿ / ﻿32.7314°N 117.1453°W"
+    },
+    "10": {
+        "name": "Balclutha (square-rigger)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Balclutha_%28San_Francisco%29_2_edit1.jpg/240px-Balclutha_%28San_Francisco%29_2_edit1.jpg",
+        "location": "37°48′36″N 122°25′21″W﻿ / ﻿37.8099°N 122.4225°W"
+    },
+    "11": {
+        "name": "Baldwin Hills Village",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/VillageGreen_2006_sm2509.JPG/240px-VillageGreen_2006_sm2509.JPG",
+        "location": "34°01′11″N 118°21′39″W﻿ / ﻿34.0197°N 118.3608°W"
+    },
+    "12": {
+        "name": "Hubert H. Bancroft Ranch House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bancroft_House%2C_9050_Memory_Lane%2C_Spring_Valley_%28San_Diego_County%2C_California%29.jpg/240px-Bancroft_House%2C_9050_Memory_Lane%2C_Spring_Valley_%28San_Diego_County%2C_California%29.jpg",
+        "location": "32°44′05″N 116°59′18″W﻿ / ﻿32.7346°N 116.9883°W"
+    },
+    "13": {
+        "name": "Bank of Italy Building",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bank_of_Italy_Building_%28San_Francisco%29_edit1.jpg/240px-Bank_of_Italy_Building_%28San_Francisco%29_edit1.jpg",
+        "location": "37°47′40″N 122°24′11″W﻿ / ﻿37.7944°N 122.4030°W"
+    },
+    "14": {
+        "name": "Aline Barnsdall Complex (Hollyhock House)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hollyhock_House.JPG/240px-Hollyhock_House.JPG",
+        "location": "34°06′00″N 118°17′41″W﻿ / ﻿34.0999°N 118.2946°W"
+    },
+    "15": {
+        "name": "Berkeley (ferry)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Berkeley-ferryboat-stack.jpg/240px-Berkeley-ferryboat-stack.jpg",
+        "location": "32°43′01″N 117°10′21″W﻿ / ﻿32.7169°N 117.1726°W"
+    },
+    "16": {
+        "name": "Big Four House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/OldSacramento.jpg/240px-OldSacramento.jpg",
+        "location": "38°34′58″N 121°30′12″W﻿ / ﻿38.5827°N 121.50333333333333°W"
+    },
+    "17": {
+        "name": "Bodie Historic District",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bodie_ghost_town.jpg/240px-Bodie_ghost_town.jpg",
+        "location": "38°12′44″N 119°00′44″W﻿ / ﻿38.21222222222222°N 119.01222222222222°W"
+    },
+    "18": {
+        "name": "Borax Lake Site",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Borax_Lake%2C_California.jpg/240px-Borax_Lake%2C_California.jpg",
+        "location": null
+    },
+    "19": {
+        "name": "Bradbury Building",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bradbury_Building2.jpg/240px-Bradbury_Building2.jpg",
+        "location": "34°03′03″N 118°14′53″W﻿ / ﻿34.050744°N 118.248170°W"
+    },
+    "20": {
+        "name": "Luther Burbank House and Garden",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/LBurbank_Gardens.jpg/240px-LBurbank_Gardens.jpg",
+        "location": "38°26′10″N 122°42′44″W﻿ / ﻿38.436141°N 122.712208°W"
+    },
+    "21": {
+        "name": "C.A. Thayer (schooner)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/6/65/C_A_Thayer.JPG",
+        "location": "37°48′28″N 122°25′16″W﻿ / ﻿37.8079063201°N 122.421081619°W"
+    },
+    "22": {
+        "name": "California Powder Works Bridge",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/WEST_ABUTMENT%2C_BELOW_ROADWAY_DETAIL_-_Powder_Works_Bridge%2C_Spanning_San_Lorenzo_River%2C_Keystone_Way%2C_Paradise_Park%2C_Santa_Cruz%2C_Santa_Cruz_County%2C_CA_HAER_CA-313-6.tif/lossy-page1-240px-thumbnail.tif.jpg",
+        "location": "37°00′38″N 122°02′38″W﻿ / ﻿37.0106°N 122.044°W﻿ / 37.0106; -122.044﻿ (California Powder W"
+    },
+    "23": {
+        "name": "Carmel Mission",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/San_Carlos_Borromeo_de_Carmelo_-_3-D.JPG/240px-San_Carlos_Borromeo_de_Carmelo_-_3-D.JPG",
+        "location": "36°32′28″N 121°55′07″W﻿ / ﻿36.5410005723°N 121.918551601°W"
+    },
+    "24": {
+        "name": "Carrizo Plain Archeological District",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aerial-SanAndreas-CarrizoPlain.jpg/240px-Aerial-SanAndreas-CarrizoPlain.jpg",
+        "location": "35°11′29″N 119°43′34″W﻿ / ﻿35.19138888888889°N 119.72611111111111°W"
+    },
+    "25": {
+        "name": "Jose Castro House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/General_Jose_Castro_House%2C_Mission_Plaza%2C_San_Juan_Bautista_%28San_Benito_County%2C_California%29.jpg/240px-General_Jose_Castro_House%2C_Mission_Plaza%2C_San_Juan_Bautista_%28San_Benito_County%2C_California%29.jpg",
+        "location": "36°50′34″N 121°32′05″W﻿ / ﻿36.8428379948°N 121.534683313°W"
+    },
+    "26": {
+        "name": "Coloma",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sutters_Mill.jpg/240px-Sutters_Mill.jpg",
+        "location": "38°48′00″N 120°53′21″W﻿ / ﻿38.8°N 120.8892°W"
+    },
+    "27": {
+        "name": "Columbia Historic District",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Columbia_California.jpg/240px-Columbia_California.jpg",
+        "location": "38°02′09″N 120°24′04″W﻿ / ﻿38.03578888888889°N 120.40105833333334°W"
+    },
+    "28": {
+        "name": "Commander's House, Fort Ross",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rotchev_House.jpg/240px-Rotchev_House.jpg",
+        "location": "38°30′52″N 123°14′37″W﻿ / ﻿38.51444444444444°N 123.24361111111111°W"
+    },
+    "29": {
+        "name": "Coso Rock Art District(formerly Big and Little Petroglyph Canyons)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Coso_sheep.jpg",
+        "location": null
+    },
+    "30": {
+        "name": "Donner Camp Sites",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Donner_Party_Memorial.jpg/240px-Donner_Party_Memorial.jpg",
+        "location": "39°19′12″N 120°14′30″W﻿ / ﻿39.32°N 120.241667°W"
+    },
+    "31": {
+        "name": "Drakes Bay Historic and Archeological District",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Drake_CA_1590.jpg/240px-Drake_CA_1590.jpg",
+        "location": "38°02′03″N 122°56′27″W﻿ / ﻿38.034223°N 122.940800°W"
+    },
+    "32": {
+        "name": "Eames House (Case Study House #8)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eames_house_entry.jpg/240px-Eames_house_entry.jpg",
+        "location": "34°01′47″N 118°31′10″W﻿ / ﻿34.029722°N 118.519444°W"
+    },
+    "33": {
+        "name": "Elmshaven (Ellen White House)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Elmshaven%2C_125_Glass_Mountain_Ln.%2C_St._Helena%2C_CA_10-16-2011_4-06-34_PM.JPG/240px-Elmshaven%2C_125_Glass_Mountain_Ln.%2C_St._Helena%2C_CA_10-16-2011_4-06-34_PM.JPG",
+        "location": "38°32′06″N 122°28′41″W﻿ / ﻿38.5351240606°N 122.477946296°W﻿ / 38.5351240606; -122.477946296﻿ (Elmshaven (Ellen W"
+    },
+    "34": {
+        "name": "Estudillo House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Jose_Antonio_Estudillo_House%2C_Mason_Street_%26_San_Diego_Avenue%2C_Old_Town%2C_San_Diego_%28San_Diego_County%2C_California%29.jpg/240px-Jose_Antonio_Estudillo_House%2C_Mason_Street_%26_San_Diego_Avenue%2C_Old_Town%2C_San_Diego_%28San_Diego_County%2C_California%29.jpg",
+        "location": "32°45′15″N 117°11′49″W﻿ / ﻿32.754196°N 117.197075°W"
+    },
+    "35": {
+        "name": "Eureka (double-ended ferry)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eureka_%28steam_ferryboat%2C_San_Francisco%29.JPG/240px-Eureka_%28steam_ferryboat%2C_San_Francisco%29.JPG",
+        "location": "37°48′27″N 122°25′17″W﻿ / ﻿37.8074567997°N 122.42131233°W"
+    },
+    "36": {
+        "name": "USCGC Fir",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/USCGC_Fir_B%26W.jpg/240px-USCGC_Fir_B%26W.jpg",
+        "location": "38°08′59″N 121°40′59″W﻿ / ﻿38.149758°N 121.68317°W"
+    },
+    "37": {
+        "name": "First Church of Christ, Scientist",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/First_Church_of_Christ_Scientist.jpg/240px-First_Church_of_Christ_Scientist.jpg",
+        "location": "37°51′56″N 122°15′20″W﻿ / ﻿37.865504°N 122.255642°W"
+    },
+    "38": {
+        "name": "James C. Flood Mansion",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/James_Flood_Mansion_%28San_Francisco%29_4.JPG/240px-James_Flood_Mansion_%28San_Francisco%29_4.JPG",
+        "location": "37°47′31″N 122°24′39″W﻿ / ﻿37.791854°N 122.410818°W"
+    },
+    "39": {
+        "name": "Folsom Powerhouse",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/FolsomPowerHouse.jpg/240px-FolsomPowerHouse.jpg",
+        "location": "38°40′50″N 121°10′32″W﻿ / ﻿38.680556°N 121.175556°W"
+    },
+    "40": {
+        "name": "Fort Ross",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/FortRoss-blockhouse-from-outside.jpg/240px-FortRoss-blockhouse-from-outside.jpg",
+        "location": "38°30′45″N 123°14′34″W﻿ / ﻿38.5124247055°N 123.242708003°W"
+    },
+    "41": {
+        "name": "Fresno Sanitary Landfill",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/FresnoLandfillEPA.png/240px-FresnoLandfillEPA.png",
+        "location": "36°42′00″N 119°49′47″W﻿ / ﻿36.7°N 119.829722°W"
+    },
+    "42": {
+        "name": "David B. Gamble House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/GambleHouse-2005_edit1.jpg/240px-GambleHouse-2005_edit1.jpg",
+        "location": "34°09′06″N 118°09′37″W﻿ / ﻿34.151669°N 118.160364°W"
+    },
+    "43": {
+        "name": "González House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rafael_Gonzalez_House1.jpg/240px-Rafael_Gonzalez_House1.jpg",
+        "location": "34°25′27″N 119°41′45″W﻿ / ﻿34.424217°N 119.695856°W"
+    },
+    "44": {
+        "name": "Guajome Ranch House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rancho_Guajome_1-2.jpg/240px-Rancho_Guajome_1-2.jpg",
+        "location": "33°14′00″N 117°15′14″W﻿ / ﻿33.233375°N 117.253969°W"
+    },
+    "45": {
+        "name": "Hale Solar Observatory",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/George_Ellery_Hale_1905.jpg/240px-George_Ellery_Hale_1905.jpg",
+        "location": "34°07′59″N 118°07′19″W﻿ / ﻿34.132974°N 118.121818°W"
+    },
+    "46": {
+        "name": "Hanna-Honeycomb House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hanna_House_10.JPG/240px-Hanna_House_10.JPG",
+        "location": "37°24′58″N 122°09′51″W﻿ / ﻿37.416131°N 122.164135°W"
+    },
+    "47": {
+        "name": "Harada House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Harada_House_20091024c.jpg/240px-Harada_House_20091024c.jpg",
+        "location": "33°59′07″N 117°22′09″W﻿ / ﻿33.985167°N 117.369250°W"
+    },
+    "48": {
+        "name": "Hearst San Simeon Estate",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hearst_Castle_Casa_Grande2.jpg/240px-Hearst_Castle_Casa_Grande2.jpg",
+        "location": "35°41′06″N 121°10′04″W﻿ / ﻿35.684999999999995°N 121.16777777777779°W"
+    },
+    "49": {
+        "name": "Hercules (tug)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hercules_%28steam_tug%2C_San_Francisco%29.JPG/240px-Hercules_%28steam_tug%2C_San_Francisco%29.JPG",
+        "location": "37°48′30″N 122°25′16″W﻿ / ﻿37.8084470841°N 122.421077397°W"
+    },
+    "50": {
+        "name": "Lou Henry and Herbert Hoover House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lou_Henry_Hoover_House_from_E.jpg/240px-Lou_Henry_Hoover_House_from_E.jpg",
+        "location": "37°25′04″N 122°10′09″W﻿ / ﻿37.417719°N 122.169060°W"
+    },
+    "51": {
+        "name": "USS Hornet (CVS-12) (aircraft carrier)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/USS-Hornet-CV-12-Dsc08428.jpg/240px-USS-Hornet-CV-12-Dsc08428.jpg",
+        "location": "37°46′22″N 122°18′10″W﻿ / ﻿37.77272°N 122.302895°W"
+    },
+    "52": {
+        "name": "Hotel del Coronado",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hotel_del_Coronado.JPG/240px-Hotel_del_Coronado.JPG",
+        "location": "32°40′51″N 117°10′36″W﻿ / ﻿32.680895°N 117.176599°W"
+    },
+    "53": {
+        "name": "Edwin Hubble House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Edwin_Powell_Hubble_House%2C_San_Marino_%28Los_Angeles_County%2C_California%29.jpg/240px-Edwin_Powell_Hubble_House%2C_San_Marino_%28Los_Angeles_County%2C_California%29.jpg",
+        "location": "34°07′24″N 118°07′17″W﻿ / ﻿34.123261°N 118.121400°W"
+    },
+    "54": {
+        "name": "Jeremiah O'Brien (Liberty ship)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jeremiah_O%27Brien_%28Liberty_ship%2C_San_Francisco%29.JPG/240px-Jeremiah_O%27Brien_%28Liberty_ship%2C_San_Francisco%29.JPG",
+        "location": "37°48′23″N 122°25′43″W﻿ / ﻿37.8063206324°N 122.428591541°W"
+    },
+    "55": {
+        "name": "Knight's Ferry Bridge",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Knight%27s_Ferry_covered_bridge%2C_Stanislaus_River%2C_California.jpg/240px-Knight%27s_Ferry_covered_bridge%2C_Stanislaus_River%2C_California.jpg",
+        "location": "37°49′10″N 120°39′49″W﻿ / ﻿37.819497°N 120.663618°W"
+    },
+    "56": {
+        "name": "La Purisima Mission",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/La_Purisima_Mission.jpg/240px-La_Purisima_Mission.jpg",
+        "location": "34°40′18″N 120°25′21″W﻿ / ﻿34.671803°N 120.422457°W"
+    },
+    "57": {
+        "name": "Lake Merritt Wild Duck Refuge",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lake_Merritt_Oakland_California_panorama.jpg/240px-Lake_Merritt_Oakland_California_panorama.jpg",
+        "location": "37°48′14″N 122°15′33″W﻿ / ﻿37.8039°N 122.2591°W﻿ / 37.8039; -122.2591﻿ (Lake Merritt W"
+    },
+    "58": {
+        "name": "Lane Victory (victory ship)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vincent_Thomas_Bridge.jpg/240px-Vincent_Thomas_Bridge.jpg",
+        "location": "33°42′52″N 118°16′29″W﻿ / ﻿33.714444°N 118.274722°W"
+    },
+    "59": {
+        "name": "Larkin House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Larkin_House_2013.JPG/240px-Larkin_House_2013.JPG",
+        "location": "36°35′56″N 121°53′44″W﻿ / ﻿36.598893°N 121.895642°W"
+    },
+    "60": {
+        "name": "Las Flores Adobe",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/San_Pedro_Chapel.jpg/240px-San_Pedro_Chapel.jpg",
+        "location": "33°18′00″N 117°27′40″W﻿ / ﻿33.299949°N 117.461067°W"
+    },
+    "61": {
+        "name": "Leconte Memorial Lodge",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LeConte-Memorial-Lodge-interior.jpg/240px-LeConte-Memorial-Lodge-interior.jpg",
+        "location": "37°44′18″N 119°34′42″W﻿ / ﻿37.7383029633°N 119.578421199°W"
+    },
+    "62": {
+        "name": "Lightship WAL-605, Relief",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/LS_13.jpg/240px-LS_13.jpg",
+        "location": "37°47′44″N 122°16′50″W﻿ / ﻿37.795689°N 122.280592°W﻿ / 37.795689; -122.280592﻿ (Lightship W"
+    },
+    "63": {
+        "name": "Little Tokyo Historic District",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Japanese_American_National_Museum2.jpg/240px-Japanese_American_National_Museum2.jpg",
+        "location": "34°03′02″N 118°14′22″W﻿ / ﻿34.050556°N 118.239444°W"
+    },
+    "64": {
+        "name": "Locke Historic District",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Locke_p1080790.jpg/240px-Locke_p1080790.jpg",
+        "location": "38°15′02″N 121°30′35″W﻿ / ﻿38.25055555555556°N 121.50972222222222°W"
+    },
+    "65": {
+        "name": "Jack London Ranch",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/LondonCottage.jpg/240px-LondonCottage.jpg",
+        "location": "38°21′02″N 122°32′35″W﻿ / ﻿38.350556°N 122.543056°W"
+    },
+    "66": {
+        "name": "Los Alamos Ranch House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Los_Alamos_Ranch_House_NPS_photo_1968.jpg/240px-Los_Alamos_Ranch_House_NPS_photo_1968.jpg",
+        "location": null
+    },
+    "67": {
+        "name": "Los Angeles Memorial Coliseum",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LA_Coliseum_gate.jpg/240px-LA_Coliseum_gate.jpg",
+        "location": "34°00′50″N 118°17′16″W﻿ / ﻿34.014°N 118.28777777777778°W"
+    },
+    "68": {
+        "name": "Los Cerritos Ranch House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Casa_de_los_Cerritos%2C_4600_American_Avenue%2C_Long_Beach_%28Los_Angeles_County%2C_California%29.jpg/240px-Casa_de_los_Cerritos%2C_4600_American_Avenue%2C_Long_Beach_%28Los_Angeles_County%2C_California%29.jpg",
+        "location": "33°50′11″N 118°11′40″W﻿ / ﻿33.836392°N 118.194523°W"
+    },
+    "69": {
+        "name": "Lower Klamath National Wildlife Refuge",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ardea_alba_8194t.jpg/240px-Ardea_alba_8194t.jpg",
+        "location": "41°58′00″N 121°46′00″W﻿ / ﻿41.96666666666667°N 121.76666666666667°W﻿ / 41.96666666666667; -121.76666666666667﻿ (Lower Klamath National W"
+    },
+    "70": {
+        "name": "Manzanar War Relocation Center",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Manzanar_shrine.jpg/240px-Manzanar_shrine.jpg",
+        "location": "36°43′41″N 118°09′16″W﻿ / ﻿36.72805555555556°N 118.15444444444445°W﻿ / 36.72805555555556; -118.15444444444445﻿ (Manzanar W"
+    },
+    "71": {
+        "name": "Mare Island Naval Shipyard",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/USS_Wadleigh_%28DD-689%29_at_Mare_Island_Naval_Yard%2C_stern_view.jpg/240px-USS_Wadleigh_%28DD-689%29_at_Mare_Island_Naval_Yard%2C_stern_view.jpg",
+        "location": "38°06′N 122°16′W﻿ / ﻿38.1°N 122.27°W"
+    },
+    "72": {
+        "name": "Marin County Civic Center",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Marin_Civic_Center_Interior.jpg/240px-Marin_Civic_Center_Interior.jpg",
+        "location": "37°59′52″N 122°31′50″W﻿ / ﻿37.99777777777778°N 122.53055555555555°W"
+    },
+    "73": {
+        "name": "Mendocino Woodlands Recreational Demonstration Area",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MissionBeachRollercoaster_640pixels.JPG/240px-MissionBeachRollercoaster_640pixels.JPG",
+        "location": "39°19′43″N 123°41′54″W﻿ / ﻿39.328611111111115°N 123.69833333333334°W﻿ / 39.328611111111115; -123.69833333333334﻿ (Mendocino W"
+    },
+    "74": {
+        "name": "Mission Beach Roller Coaster",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/RiversideCA_MissionInn.jpg/240px-RiversideCA_MissionInn.jpg",
+        "location": "32°46′12″N 117°15′00″W﻿ / ﻿32.7699345629°N 117.250059665°W"
+    },
+    "75": {
+        "name": "Mission Inn",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/San_Miguel_Arcangel_circa_1897_Adam_Clark_Vroman.jpg/240px-San_Miguel_Arcangel_circa_1897_Adam_Clark_Vroman.jpg",
+        "location": "33°58′54″N 117°22′18″W﻿ / ﻿33.9816175011°N 117.371665653°W"
+    },
+    "76": {
+        "name": "Mission San Miguel Arcángel",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mission_StInes.jpg/240px-Mission_StInes.jpg",
+        "location": "35°44′41″N 120°41′53″W﻿ / ﻿35.744722°N 120.698056°W"
+    },
+    "77": {
+        "name": "Mission Santa Inés",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_Arden_Helena_Modjeska_House.jpg/240px-The_Arden_Helena_Modjeska_House.jpg",
+        "location": "34°35′40″N 120°08′12″W﻿ / ﻿34.594454°N 120.136657°W"
+    },
+    "78": {
+        "name": "Modjeska House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Custom_House%2C_Custom_House_Plaza%2C_Monterey_%28Monterey_County%2C_California%29.jpg/240px-Custom_House%2C_Custom_House_Plaza%2C_Monterey_%28Monterey_County%2C_California%29.jpg",
+        "location": "33°42′59″N 117°37′26″W﻿ / ﻿33.7163426263°N 117.623823831°W"
+    },
+    "79": {
+        "name": "Monterey Old Town Historic District",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/John_Muir_NHS.jpg/240px-John_Muir_NHS.jpg",
+        "location": "36°35′59″N 121°53′37″W﻿ / ﻿36.599722°N 121.893611°W"
+    },
+    "80": {
+        "name": "John Muir House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SenadorMineRuins-AQ.jpg/240px-SenadorMineRuins-AQ.jpg",
+        "location": "37°59′30″N 122°07′50″W﻿ / ﻿37.991679°N 122.130511°W"
+    },
+    "81": {
+        "name": "New Almaden",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nixonhouse.jpg/240px-Nixonhouse.jpg",
+        "location": "37°10′48″N 121°50′08″W﻿ / ﻿37.18°N 121.835556°W"
+    },
+    "82": {
+        "name": "Richard M. Nixon Birthplace",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Frank_Norris_Memorial%2C_Redwood_Retreat_Road%2C_Gilroy_vicinity_%28Santa_Clara_County%2C_California%29.jpg/240px-Frank_Norris_Memorial%2C_Redwood_Retreat_Road%2C_Gilroy_vicinity_%28Santa_Clara_County%2C_California%29.jpg",
+        "location": "33°53′19″N 117°49′08″W﻿ / ﻿33.888611°N 117.818759°W"
+    },
+    "83": {
+        "name": "Frank Norris Cabin",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2009-0726-CA-NationalChavezCenter.jpg/240px-2009-0726-CA-NationalChavezCenter.jpg",
+        "location": "37°02′11″N 121°42′45″W﻿ / ﻿37.036389°N 121.7125°W"
+    },
+    "84": {
+        "name": "Nuestra Senora Reina de la Paz",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Butterfield_Stage_Station%2C_Oak_Grove_%28San_Diego_County%2C_California%29.jpg/240px-Butterfield_Stage_Station%2C_Oak_Grove_%28San_Diego_County%2C_California%29.jpg",
+        "location": "35°13′24″N 118°33′49″W﻿ / ﻿35.223413°N 118.563616°W"
+    },
+    "85": {
+        "name": "Oak Grove Butterfield Stage Station",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/MontereyCalCustHouse.JPG/240px-MontereyCalCustHouse.JPG",
+        "location": "33°23′23″N 116°47′39″W﻿ / ﻿33.389728°N 116.794097°W"
+    },
+    "86": {
+        "name": "Old Customhouse",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Old-mission-dam.JPG/240px-Old-mission-dam.JPG",
+        "location": "36°35′46″N 121°53′31″W﻿ / ﻿36.5961971882°N 121.892068798°W"
+    },
+    "87": {
+        "name": "Old Mission Dam",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Old_Town_Sacramento.jpg/240px-Old_Town_Sacramento.jpg",
+        "location": "32°50′17″N 117°02′32″W﻿ / ﻿32.8381927311°N 117.042314031°W"
+    },
+    "88": {
+        "name": "Old Sacramento Historic District",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/SIOhistory.jpeg/240px-SIOhistory.jpeg",
+        "location": "38°34′58″N 121°30′12″W﻿ / ﻿38.582778°N 121.503333°W"
+    },
+    "89": {
+        "name": "Old Scripps Building",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Old_US_Mint_%28San_Francisco%29_3.JPG/240px-Old_US_Mint_%28San_Francisco%29_3.JPG",
+        "location": "32°51′52″N 117°15′09″W﻿ / ﻿32.864446°N 117.252395°W"
+    },
+    "90": {
+        "name": "Old United States Mint",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pampanito_%28submarine%2C_San_Francisco%29.JPG/240px-Pampanito_%28submarine%2C_San_Francisco%29.JPG",
+        "location": "37°46′58″N 122°24′23″W﻿ / ﻿37.782727°N 122.406479°W"
+    },
+    "91": {
+        "name": "USS Pampanito (submarine)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Paramount.jpg/240px-Paramount.jpg",
+        "location": "37°48′31″N 122°24′56″W﻿ / ﻿37.8086004153°N 122.415623276°W"
+    },
+    "92": {
+        "name": "Paramount Theatre",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Parsons_Memorial_Lodge_NPS.jpg/240px-Parsons_Memorial_Lodge_NPS.jpg",
+        "location": "37°48′34″N 122°16′05″W﻿ / ﻿37.809457°N 122.267984°W"
+    },
+    "93": {
+        "name": "Parsons Memorial Lodge",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Photo-CA-RanchoPetaluma.jpg/240px-Photo-CA-RanchoPetaluma.jpg",
+        "location": "37°52′36″N 119°22′00″W﻿ / ﻿37.8766108572°N 119.366616789°W"
+    },
+    "94": {
+        "name": "Petaluma Adobe",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Goldstone_Deep_Space_Communication_Complex_-_GPN-2000-000506.jpg/240px-Goldstone_Deep_Space_Communication_Complex_-_GPN-2000-000506.jpg",
+        "location": "38°15′20″N 122°35′04″W﻿ / ﻿38.25547°N 122.58451°W"
+    },
+    "95": {
+        "name": "Pioneer Deep Space Station",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pore_lifesavingsation_nhl_03.JPG/240px-Pore_lifesavingsation_nhl_03.JPG",
+        "location": "35°23′15″N 116°51′22″W﻿ / ﻿35.3874891024°N 116.856198162°W"
+    },
+    "96": {
+        "name": "Point Reyes Lifeboat Station",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/B._F._Hastings_Bank_Building%2C_128-132_J_Street%2C_Sacramento_%28Sacramento_County%2C_California%29.jpg/240px-B._F._Hastings_Bank_Building%2C_128-132_J_Street%2C_Sacramento_%28Sacramento_County%2C_California%29.jpg",
+        "location": "37°59′38″N 122°58′26″W﻿ / ﻿37.993889°N 122.973889°W"
+    },
+    "97": {
+        "name": "Pony Express Terminal",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Uss-potomac-at-oakland.jpg/240px-Uss-potomac-at-oakland.jpg",
+        "location": "38°34′58″N 121°30′15″W﻿ / ﻿38.582898°N 121.504248°W"
+    },
+    "98": {
+        "name": "Potomac (Presidential yacht)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Presidio_sf_parading_ground.jpg/240px-Presidio_sf_parading_ground.jpg",
+        "location": "37°47′37″N 122°16′44″W﻿ / ﻿37.793512671°N 122.278992912°W"
+    },
+    "99": {
+        "name": "Presidio of San Francisco",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ralph_J._Scott_%28fireboat%29.JPG/240px-Ralph_J._Scott_%28fireboat%29.JPG",
+        "location": "37°48′00″N 122°28′00″W﻿ / ﻿37.8°N 122.46666666666667°W"
+    },
+    "100": {
+        "name": "Ralph J. Scott (fireboat)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ralston_hall.JPG/240px-Ralston_hall.JPG",
+        "location": "33°44′29″N 118°16′44″W﻿ / ﻿33.741292°N 118.278953°W"
+    },
+    "101": {
+        "name": "William C. Ralston Home",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Rancho_Camulos_aerial_view_1888.jpg/240px-Rancho_Camulos_aerial_view_1888.jpg",
+        "location": "37°31′03″N 122°17′10″W﻿ / ﻿37.5175°N 122.286111°W﻿ / 37.5175; -122.286111﻿ (W"
+    },
+    "102": {
+        "name": "Rancho Camulos",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ranger%27s_Club%2C_Yosemite_National_Park_%28Mariposa_County%2C_California%29.jpg/240px-Ranger%27s_Club%2C_Yosemite_National_Park_%28Mariposa_County%2C_California%29.jpg",
+        "location": "34°24′20″N 118°45′24″W﻿ / ﻿34.40565°N 118.756667°W"
+    },
+    "103": {
+        "name": "Rangers' Club",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jfader_dryden.jpg/240px-Jfader_dryden.jpg",
+        "location": "37°44′44″N 119°35′12″W﻿ / ﻿37.7454635709°N 119.586783467°W"
+    },
+    "104": {
+        "name": "Rogers Dry Lake",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gilman_Hall%2C_UC_Berkeley_-_Front_Entrance.jpg/240px-Gilman_Hall%2C_UC_Berkeley_-_Front_Entrance.jpg",
+        "location": "34°57′00″N 117°52′00″W﻿ / ﻿34.95°N 117.86666666666666°W"
+    },
+    "105": {
+        "name": "Room 307, Gilman Hall, University of California",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2006_Rose_Bowl_post-game_celebration.jpg/240px-2006_Rose_Bowl_post-game_celebration.jpg",
+        "location": "37°52′15″N 122°15′18″W﻿ / ﻿37.8708°N 122.2550°W"
+    },
+    "106": {
+        "name": "Rose Bowl",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Royal_Presido_Chapel_-_San_Carlos_de_Monterey_circa_1910_William_Amos_Haines.jpg/240px-Royal_Presido_Chapel_-_San_Carlos_de_Monterey_circa_1910_William_Amos_Haines.jpg",
+        "location": "34°09′34″N 118°10′00″W﻿ / ﻿34.1595343932°N 118.166774324°W"
+    },
+    "107": {
+        "name": "Royal Presidio Chapel",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/San-diego-mission-church.JPG/240px-San-diego-mission-church.JPG",
+        "location": "36°35′45″N 121°53′25″W﻿ / ﻿36.595847°N 121.890299°W"
+    },
+    "108": {
+        "name": "San Diego Mission Church",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Presidio_of_San_Diego_1820_map.jpg/240px-Presidio_of_San_Diego_1820_map.jpg",
+        "location": "32°46′58″N 117°06′23″W﻿ / ﻿32.7827680173°N 117.106253353°W"
+    },
+    "109": {
+        "name": "San Diego Presidio",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/San_Francisco_Bay_Discovery_Site%2C_Sweeney_Ridge%2C_San_Bruno%2C_CA_10-2-2011_4-21-48_PM.JPG/240px-San_Francisco_Bay_Discovery_Site%2C_Sweeney_Ridge%2C_San_Bruno%2C_CA_10-2-2011_4-21-48_PM.JPG",
+        "location": "32°45′31″N 117°11′36″W﻿ / ﻿32.758611°N 117.193333°W"
+    },
+    "110": {
+        "name": "San Francisco Bay Discovery Site",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/3_Cable_Car_on_Hyde_St_with_Alcatraz%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg/240px-3_Cable_Car_on_Hyde_St_with_Alcatraz%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg",
+        "location": "37°36′11″N 122°27′17″W﻿ / ﻿37.603056°N 122.454722°W"
+    },
+    "111": {
+        "name": "San Francisco Cable Cars",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/SFOperaHouse.jpg/240px-SFOperaHouse.jpg",
+        "location": "37°47′44″N 122°24′27″W﻿ / ﻿37.795556°N 122.4075°W"
+    },
+    "112": {
+        "name": "San Francisco Civic Center",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FortMasonWharves.JPG/240px-FortMasonWharves.JPG",
+        "location": "37°46′47″N 122°25′04″W﻿ / ﻿37.77972222222222°N 122.41777777777779°W"
+    },
+    "113": {
+        "name": "San Francisco Port of Embarkation, U.S. Army",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mission_San_Juan_Bautista%2C_Second_Street%2C_San_Juan_Bautista_Plaza%2C_San_Juan_Bautista_%28San_Benito_County%2C_California%29.jpg/240px-Mission_San_Juan_Bautista%2C_Second_Street%2C_San_Juan_Bautista_Plaza%2C_San_Juan_Bautista_%28San_Benito_County%2C_California%29.jpg",
+        "location": "37°48′26″N 122°25′50″W﻿ / ﻿37.80722222222222°N 122.43055555555556°W"
+    },
+    "114": {
+        "name": "San Juan Bautista Plaza Historic District",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mission_San_Luis_Rey_de_Francia_current.jpg/240px-Mission_San_Luis_Rey_de_Francia_current.jpg",
+        "location": "36°50′37″N 121°32′04″W﻿ / ﻿36.8437377837°N 121.53455399°W"
+    },
+    "115": {
+        "name": "San Luis Rey Mission Church",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/SB_Courthouse1.jpg/240px-SB_Courthouse1.jpg",
+        "location": "33°22′03″N 117°13′06″W﻿ / ﻿33.3675°N 117.218333°W"
+    },
+    "116": {
+        "name": "Santa Barbara County Courthouse",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mission_Santa_Barbara.jpg/240px-Mission_Santa_Barbara.jpg",
+        "location": "34°25′28″N 119°42′09″W﻿ / ﻿34.42435°N 119.702461°W"
+    },
+    "117": {
+        "name": "Santa Barbara Mission",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/SantaCruz_BeachBoardwalk_GiantDipperTrack2_DSCN9390.JPG/240px-SantaCruz_BeachBoardwalk_GiantDipperTrack2_DSCN9390.JPG",
+        "location": "34°26′15″N 119°42′45″W﻿ / ﻿34.437362°N 119.712634°W"
+    },
+    "118": {
+        "name": "Santa Cruz Looff Carousel and Roller Coaster",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Santa_Monica_pier_edit1.jpg/240px-Santa_Monica_pier_edit1.jpg",
+        "location": "36°57′52″N 122°01′00″W﻿ / ﻿36.964444444444446°N 122.01666666666667°W"
+    },
+    "119": {
+        "name": "Santa Monica Looff Hippodrome",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/UptonSinclairHouse-186-sm.jpg/240px-UptonSinclairHouse-186-sm.jpg",
+        "location": "34°00′37″N 118°29′47″W﻿ / ﻿34.010184°N 118.496368°W"
+    },
+    "120": {
+        "name": "Upton Sinclair House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sonoma_City_Hall.jpg/240px-Sonoma_City_Hall.jpg",
+        "location": "34°09′43″N 118°00′04″W﻿ / ﻿34.161969°N 118.001210°W"
+    },
+    "121": {
+        "name": "Sonoma Plaza",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/JPLControlRoom.jpg/240px-JPLControlRoom.jpg",
+        "location": "38°17′04″N 122°27′27″W﻿ / ﻿38.2844470556°N 122.457393148°W"
+    },
+    "122": {
+        "name": "Space Flight Operations Facility",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Thorad_Agena_with_SERT-2.jpg/240px-Thorad_Agena_with_SERT-2.jpg",
+        "location": "34°11′58″N 118°10′25″W﻿ / ﻿34.1993285017°N 118.173617161°W"
+    },
+    "123": {
+        "name": "Space Launch Complex 10",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lelandstanfordmansion.jpg/240px-Lelandstanfordmansion.jpg",
+        "location": "34°45′55″N 120°37′20″W﻿ / ﻿34.765278°N 120.622222°W"
+    },
+    "124": {
+        "name": "Leland Stanford House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Starofindia.jpg/240px-Starofindia.jpg",
+        "location": "38°34′36″N 121°29′52″W﻿ / ﻿38.576528°N 121.497914°W"
+    },
+    "125": {
+        "name": "Star of India (bark)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SuttersFort2002.jpg/240px-SuttersFort2002.jpg",
+        "location": "32°42′51″N 117°10′22″W﻿ / ﻿32.7142265105°N 117.172862915°W"
+    },
+    "126": {
+        "name": "Steedman Estate(Casa del Herrero)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Swedenborgia_Church_%28San_Francisco%2C_California%29.jpg/240px-Swedenborgia_Church_%28San_Francisco%2C_California%29.jpg",
+        "location": "34°26′07″N 119°38′08″W﻿ / ﻿34.43527777777778°N 119.63555555555556°W"
+    },
+    "127": {
+        "name": "Sutter's Fort",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Eugeneoneilltaowinterfront.jpg/240px-Eugeneoneilltaowinterfront.jpg",
+        "location": "38°34′14″N 121°28′12″W﻿ / ﻿38.5704472774°N 121.470071911°W"
+    },
+    "128": {
+        "name": "Swedenborgian Church",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2009-0725-CA-Delano-40acres.jpg/240px-2009-0725-CA-Delano-40acres.jpg",
+        "location": "37°47′25″N 122°26′45″W﻿ / ﻿37.790229°N 122.445882°W"
+    },
+    "129": {
+        "name": "Tao House",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Indian_Island_Tolowot_California.jpg/240px-Indian_Island_Tolowot_California.jpg",
+        "location": "37°49′33″N 122°01′39″W﻿ / ﻿37.825961°N 122.02755°W"
+    },
+    "130": {
+        "name": "The Forty Acres",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tule_Lake_camp_main.jpg/240px-Tule_Lake_camp_main.jpg",
+        "location": "35°45′48″N 119°17′15″W﻿ / ﻿35.76325277777778°N 119.28749722222221°W"
+    },
+    "131": {
+        "name": "Tolowot, Gunther Island Site 67",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mariner_10_in_JPLs_25-foot_space_simulator.gif/240px-Mariner_10_in_JPLs_25-foot_space_simulator.gif",
+        "location": "40°48′36″N 124°10′19″W﻿ / ﻿40.809999999999995°N 124.17194444444445°W"
+    },
+    "132": {
+        "name": "Tule Lake Segregation Center",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Unitary_Plan_Wind_Tunnel_Modification_Project_1996.jpeg/240px-Unitary_Plan_Wind_Tunnel_Modification_Project_1996.jpeg",
+        "location": null
+    },
+    "133": {
+        "name": "Twenty-Five-Foot Space Simulator",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Angel_Island_Immigration_Station_Dormitory_b.jpg/240px-Angel_Island_Immigration_Station_Dormitory_b.jpg",
+        "location": "34°12′03″N 118°10′22″W﻿ / ﻿34.2009587786°N 118.172880016°W"
+    },
+    "134": {
+        "name": "Unitary Plan Wind Tunnel",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/U.S._Post_Office_%26_Courthouse_%28San_Francisco%29.jpg/240px-U.S._Post_Office_%26_Courthouse_%28San_Francisco%29.jpg",
+        "location": "37°24′56″N 122°03′35″W﻿ / ﻿37.4156663073°N 122.059785401°W﻿ / 37.4156663073; -122.059785401﻿ (Unitary Plan W"
+    },
+    "135": {
+        "name": "United States Immigration Station, Angel Island",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/SR178_5000_Elevation.jpg/240px-SR178_5000_Elevation.jpg",
+        "location": "37°51′44″N 122°25′13″W﻿ / ﻿37.86222222222222°N 122.42027777777778°W"
+    },
+    "136": {
+        "name": "United States Post Office and Court House (James R. Browning U.S. Court of Appeals)",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Warner_Ranch%2C_Ranch_House_%28Warner_Springs%2C_CA%29.jpg/240px-Warner_Ranch%2C_Ranch_House_%28Warner_Springs%2C_CA%29.jpg",
+        "location": "37°46′46″N 122°24′40″W﻿ / ﻿37.779404°N 122.411162°W"
+    },
+    "137": {
+        "name": "Walker Pass",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Watts-towers.jpg/240px-Watts-towers.jpg",
+        "location": "35°39′47″N 118°01′37″W﻿ / ﻿35.663056°N 118.026944°W﻿ / 35.663056; -118.026944﻿ (W"
+    },
+    "138": {
+        "name": "Warner's Ranch",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wawona_Hotel.jpg/240px-Wawona_Hotel.jpg",
+        "location": "33°14′19″N 116°39′03″W﻿ / ﻿33.238611°N 116.650833°W﻿ / 33.238611; -116.650833﻿ (W"
+    },
+    "139": {
+        "name": "Watts Towers",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Picocanyon.jpg/240px-Picocanyon.jpg",
+        "location": "33°56′13″N 118°14′26″W﻿ / ﻿33.9369667128°N 118.240549404°W﻿ / 33.9369667128; -118.240549404﻿ (W"
+    },
+    "140": {
+        "name": "Wawona Hotel and Thomas Hill Studio",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Yuma_Crossing_and_RR_bridge_in_1886.jpg/240px-Yuma_Crossing_and_RR_bridge_in_1886.jpg",
+        "location": "37°32′11″N 119°39′13″W﻿ / ﻿37.536389°N 119.653611°W﻿ / 37.536389; -119.653611﻿ (W"
+    },
+    "141": {
+        "name": "Well No. 4, Pico Canyon Oil Field",
+        "location": "34°22′10″N 118°37′49″W﻿ / ﻿34.369444°N 118.630278°W﻿ / 34.369444; -118.630278﻿ (W"
+    },
+    "142": {
+        "name": "Yuma Crossing and Associated Sites",
+        "location": "32°43′45″N 114°36′55″W﻿ / ﻿32.7292°N 114.6153°W"
+    }
+}
